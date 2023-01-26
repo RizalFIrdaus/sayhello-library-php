@@ -1,5 +1,5 @@
 {
-    "name": "hello/hello",
+    "name": "rizalfirdaus/sayhello-library-php",
     "description": "Library say hello",
     "type": "library",
     "autoload": {
