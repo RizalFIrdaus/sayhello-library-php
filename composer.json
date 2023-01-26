@@ -13,5 +13,8 @@
             "email": "rizal.firdaus117@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "scripts": {
+        "run-woy" : "php -S localhost:8080"
+    }
 }
