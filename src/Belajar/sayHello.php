@@ -1,6 +1,6 @@
 <?php
 
-namespace Hello\Hello\Belajar;
+namespace rizalfirdaus\Belajar;
 
 class sayHello
 {
